@@ -1,4 +1,4 @@
-# lab2401_TestingSingleClass
+# Bank Account Lab
 
 I created a BankAccount class that has properties such as firstName, lastName, dateOfBirth, accountNumber and balance. 
 
